@@ -11,9 +11,13 @@
 - What is Software Composition Analysis (CAS)
 - What is Software Bills of Material (SBOM)
 
-  # We will perform following taks in this module
-  - Implement Infrastructure as Code (IaC) scanning to detect misconfigurations and misconfigured templates.
-  - Ensure CI/CD security
-  - perform vulnerability scanning
-  - Manage secrets to prevent data leakage
-  - Address software dependencies through Software Composition Analysis (SCA) and Software Bill of Material (SBOM)
+ # We will perform following taks in this module
+- Implement Infrastructure as Code (IaC) scanning to detect misconfigurations and misconfigured templates.
+- Ensure CI/CD security
+- perform vulnerability scanning
+- Manage secrets to prevent data leakage
+- Address software dependencies through Software Composition Analysis (SCA) and Software Bill of Material (SBOM)
+
+
+# Cloud Application Security Overview
+1. 
